@@ -1,2 +1,6 @@
-# Nitro-g-n-rateur
+# Nitro Gen
 Générateur de nitro uncheck discord.
+
+Open source.
+
+By Arizaki.
