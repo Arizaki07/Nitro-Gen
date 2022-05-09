@@ -5,4 +5,4 @@ Open source.
 
 By Arizaki.
 
-<img src="https://imgur.com/GC0gjrY">
+<img src="https://imgur.com/GC0gjrY.gif">
